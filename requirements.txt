@@ -1,0 +1,4 @@
+twint~=2.1.21
+schedule~=1.1.0
+advertools~=0.13.0
+pandas~=1.4.2

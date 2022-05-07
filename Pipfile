@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+twint = {git = "https://github.com/twintproject/twint.git"}
+nest-asyncio = "*"
+advertools = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
